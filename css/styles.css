@@ -23,7 +23,18 @@ header {
 
 nav ul{
   background-color: #620ab8;
+  list-style: none;
   
+  
+}
+
+nav ul li a {
+  display: block; 
+  color: white;
+  font-weight: bolder;
+  text-decoration: none;
+  text-align: center;
+  width: 70px;
 }
 
 footer {
