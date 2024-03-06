@@ -1,7 +1,9 @@
 body {
-  font-family: Roboto, serif;
+  font-family: 'Roboto', serif;
   background-color: #3333ff;
   color: #33334d;
+  margin: 0;
+  padding: 0;
 }
 
 section {
