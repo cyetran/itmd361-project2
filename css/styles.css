@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', serif;
-  background-color: #3333ff;
+  background-color: #ffffff;
   color: #33334d;
   margin: 0;
   padding: 0;
@@ -15,9 +15,18 @@ nav {
   text-align: center;
 }
 
-
 header {
+  background-color: #3601e7;
   width: 80%;
+  padding: 10px;
 }
 
+nav ul{
+  background-color: #620ab8;
+  
+}
+
+footer {
+  background-color: #3601e7;
+}
 
