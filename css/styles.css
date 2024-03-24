@@ -82,6 +82,10 @@ h3{
   font-style: italic;    
 }
 
+.resume h2 {
+  text-align: left;
+}
+
 video {
   display: block;
   margin: 0 auto;
